@@ -1,0 +1,38 @@
+body{
+    /* background-color: #ffd384; */
+    padding: 3rem;
+    margin: 0;
+    text-align: center;
+}
+
+/* hr{
+    clear: left;
+} */
+
+.images{
+    height: 10rem;
+}
+
+.intro{
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-self: center;
+}
+
+.edu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+#fateh
+{
+    display: flex;
+}
+
+.exp{
+    text-align: left;
+}
